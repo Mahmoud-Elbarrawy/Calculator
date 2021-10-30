@@ -1,3 +1,3 @@
 # Calculator
-STM32 simple calculator project 
+STM32 simple calculator project, 
 project under progress
